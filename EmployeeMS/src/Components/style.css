@@ -1,0 +1,29 @@
+.loginPage {
+    background: url('C:\Users\pavan\Downloads\download.jpeg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("C:\Users\pavan\Downloads\download.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgba(1, 84, 93, 0.6);
+    color: white;
+}
+
+ul li :hover {
+    background-color: 
+    rgb(128, 128, 128);
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.emp_det_image {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
